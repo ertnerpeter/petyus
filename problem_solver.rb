@@ -4,4 +4,7 @@ class ProblemSolver
 
   def Solva_harder_problem
   end
+
+  def Solve_though_problem
+  end
 end
