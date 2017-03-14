@@ -1,0 +1,1 @@
+A pörköltet könnyű elkészíteni.
